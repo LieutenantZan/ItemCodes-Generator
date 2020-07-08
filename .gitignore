@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+/build
+itemCodes.h
+test.h
+ListGenerator.py
+ListGenerator.spec
