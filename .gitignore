@@ -5,3 +5,4 @@ itemCodes.h
 test.h
 ListGenerator.py
 ListGenerator.spec
+PyInstaller Instrucitons.txt
